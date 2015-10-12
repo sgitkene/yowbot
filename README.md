@@ -9,8 +9,8 @@ Currently only supporting text messages, except special caracters like emoji.
 * A new Number (Buy a cheap prepaid SIM-card)
 * Python3
 * Pip
-* [yowsup](https://github.com/tgalal/yowsup) (pip install yowsup)
-* [telegram-cli](https://github.com/vysheng/tg)
+* [yowsup](https://github.com/tgalal/yowsup) (pip install yowsup2)
+* [telegram-cli](https://github.com/vysheng/tg) (including packages listed there)
 * [pytg](https://github.com/luckydonald/pytg) (pip install pytg)
 
 ##Install:
