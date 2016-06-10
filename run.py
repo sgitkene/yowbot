@@ -1,4 +1,4 @@
-from layer2 import RelayLayer
+from layer import RelayLayer
 from credentials import CREDENTIALS
 
 from yowsup.stacks import YowStackBuilder
