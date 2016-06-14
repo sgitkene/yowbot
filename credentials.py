@@ -1,0 +1,1 @@
+CREDENTIALS = ("phone", "password")
