@@ -1,3 +1,6 @@
+# Discontinued.
+Whatsapp seems to be blocking all numbers that use [yowsup](https://github.com/tgalal/yowsup) and as such this is no longer useful. If ever I find a useful whatsapp api that I can use, I will retry to make a bot. But I guess as of now this is only a dream.
+
 # yowbot
 A bot that relays messages from Whatsapp to Telegram and vice versa.
 
